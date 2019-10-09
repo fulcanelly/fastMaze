@@ -1,3 +1,3 @@
 # fastMaze
 
-![](img1)
+![](img1.png)
