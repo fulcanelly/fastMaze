@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -12,12 +13,11 @@
 
 int main(int argc, char*argv[])
 {
-    int width,height;
+    int width, height;
 
     //set seed for random function
     //you can delte this string but then maze always will be same 
-   // srand (timeSinceEpochMillisec());
-
+    srand (timeSinceEpochMillisec());
 
     //parsing argv part
     if(argc<3)
