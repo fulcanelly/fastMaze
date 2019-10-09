@@ -1,5 +1,3 @@
 # fastMaze
 
-```c++
-    Hm
-```
+![](img1)
